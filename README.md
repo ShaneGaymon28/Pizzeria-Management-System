@@ -10,6 +10,7 @@ This was a 3 part project to design and create a database system to be used by t
 
 ### Part 2 - Database Implementation
   The second part required me to use the ERD from part 1 to create the SQL code to:
+  
     1. CreateTables.sql - contains the necessary create statements to build the tables for the database
     
     2. PopulateData.sql - contains the necessary code to populate data in the database
@@ -24,6 +25,7 @@ This was a 3 part project to design and create a database system to be used by t
   The third part of this project involved creating a Java application that will interact with the database.
   
   The following features were added:
+  
     1. Add a new order to the database
     2. View Customers
     3. Enter a new customer
