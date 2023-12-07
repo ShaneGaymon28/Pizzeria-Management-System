@@ -50,7 +50,7 @@ SELECT
 FROM
 	orders
 GROUP BY
-	MONTH(OrderMonth),
+	OrderMonth,
     OrderType
 UNION ALL
 SELECT 
